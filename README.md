@@ -1,16 +1,16 @@
-<h1 align="center">Hello, I'm Dibya Kirti Mishra</h1>
+<img align="left" src="assets/profile.jpg" alt="Dibya Kirti Mishra" width="160" />
 
-<p align="center">
-  <img src="assets/profile.jpg" alt="Dibya Kirti Mishra" width="240" />
-</p>
+# Hello, I'm Dibya Kirti Mishra
 
-<p align="center">
+<p>
   <a href="https://github.com/DIBYA31051996">GitHub</a>
 </p>
 
 ## About Me
 
-I'm a solar astrophysicist currently working as a research scientist at Southwest Research Institute, Boulder. My research focuses on solar astrophysics, surface flux transport models, and the analysis of solar magnetic field evolution. Apart from my academic pursuits, I have a keen interest in coding, data visualization, and photography.
+I'm a solar astrophysicist currently working as a senior project associate at Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital, India. I study solar magnetic fields, solar cycle variability, and data-rich heliophysics workflows that improve long-baseline analysis and solar dynamo model understanding. Apart from my academic pursuits, I have a keen interest in coding, data visualization, sketching, and reading.
+
+<br clear="left" />
 
 ## Interests
 
@@ -18,7 +18,8 @@ I'm a solar astrophysicist currently working as a research scientist at Southwes
 - Surface flux transport modeling
 - Scientific programming
 - Data visualization
-- Photography
+- Sketching
+- Reading
 
 ## What I'm Working On
 
