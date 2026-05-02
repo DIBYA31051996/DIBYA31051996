@@ -13,7 +13,7 @@ I'm a solar astrophysicist currently working as a senior project associate at Ar
 ## Interests
 
 - Solar astrophysics
-- Surface flux transport modeling
+- Machine learning
 - Scientific programming
 - Data visualization
 - Sketching
@@ -21,10 +21,20 @@ I'm a solar astrophysicist currently working as a senior project associate at Ar
 
 ## What I'm Working On
 
-- Research related to solar magnetic fields and surface flux transport
+- Research related to solar magnetic fields and solar cycle variability
 - Tools and workflows for analyzing scientific data
 - Clear visualizations that make research results easier to understand
 - Well-documented code for reproducible scientific work
+
+## Polar Field Result
+
+### Current Progress in the Solar Polar Field
+
+<p>
+  <img src="https://www.aries.res.in/sites/default/files/inline-images/KoSO%20Century%20Polar%20Magnetic.jpg" alt="Temporal variation of reconstructed solar polar magnetic fields from KoSO and PSPT-R" />
+</p>
+
+[Source: ARIES news release](https://www.aries.res.in/node/2165)
 
 ## Public Repositories
 
@@ -50,14 +60,9 @@ I'm a solar astrophysicist currently working as a senior project associate at Ar
 
 ## Get in Touch
 
-- GitHub: [@DIBYA31051996](https://github.com/DIBYA31051996)
+- 📫 Email: [Email](mailto:dibyakirtimishra@aries.res.in)
+- 🔗 LinkedIn: [LinkedIn](https://in.linkedin.com/in/dibya-kirti-mishra-5649b8135)
+- 💻 GitHub: [GitHub](https://github.com/DIBYA31051996)
+- 🌐 Website: [Website](https://github.com/DIBYA31051996)
 
 Feel free to reach out if you want to collaborate, discuss a project, or share ideas.
-
-<!--
-Optional: add your email, LinkedIn, portfolio, or featured repositories here when you are ready.
-Example:
-- Email: your-email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-profile
-- Portfolio: https://your-portfolio.com
--->
