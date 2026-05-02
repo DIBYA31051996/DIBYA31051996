@@ -1,23 +1,14 @@
 # Hello, I'm Dibya Kirti Mishra
 
-<table>
-  <tr>
-    <td valign="top" width="280">
-      <h2>Dibya Kirti Mishra</h2>
-      <p><strong>Senior Project Associate</strong></p>
-      <p>Aryabhatta Research Institute of Observational Sciences (ARIES)</p>
-      <p>Nainital, India</p>
-      <p><a href="https://dibya31051996.github.io/">dibya31051996.github.io</a></p>
-      <p><a href="https://github.com/DIBYA31051996">@DIBYA31051996</a></p>
-    </td>
-    <td valign="top">
-      <h2>About Me</h2>
-      <p align="justify">
-        I'm a solar astrophysicist currently working as a senior project associate at Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital, India. I study solar magnetic fields, solar cycle variability, and data-rich heliophysics workflows that improve long-baseline analysis and solar dynamo model understanding. Apart from my academic pursuits, I have a keen interest in coding, data visualization, sketching, and reading.
-      </p>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/DIBYA31051996">GitHub</a>
+</p>
+
+## About Me
+
+<p align="justify">
+I'm a solar astrophysicist currently working as a senior project associate at Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital, India. I study solar magnetic fields, solar cycle variability, and data-rich heliophysics workflows that improve long-baseline analysis and solar dynamo model understanding. Apart from my academic pursuits, I have a keen interest in coding, data visualization, sketching, and reading.
+</p>
 
 ## Interests
 
@@ -62,10 +53,8 @@
 
 ## GitHub Overview
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DIBYA31051996&show_icons=true&hide_border=true" alt="Dibya Kirti Mishra's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIBYA31051996&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+[![Dibya Kirti Mishra's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIBYA31051996&show_icons=true&hide_border=true)](https://github.com/DIBYA31051996)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIBYA31051996&layout=compact&hide_border=true)](https://github.com/DIBYA31051996)
 
 ## Get in Touch
 
