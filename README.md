@@ -53,8 +53,14 @@ I'm a solar astrophysicist currently working as a senior project associate at Ar
 
 ## GitHub Overview
 
-[![Dibya Kirti Mishra's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIBYA31051996&show_icons=true&hide_border=true)](https://github.com/DIBYA31051996)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIBYA31051996&layout=compact&hide_border=true)](https://github.com/DIBYA31051996)
+<p align="left">
+  <a href="https://github.com/DIBYA31051996">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=DIBYA31051996&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800&v=2" alt="Dibya Kirti Mishra's GitHub stats" />
+  </a>
+  <a href="https://github.com/DIBYA31051996">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIBYA31051996&layout=compact&hide_border=false&cache_seconds=1800&v=2" alt="Top languages" />
+  </a>
+</p>
 
 ## Get in Touch
 
