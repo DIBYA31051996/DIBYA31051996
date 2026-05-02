@@ -1,14 +1,23 @@
 # Hello, I'm Dibya Kirti Mishra
 
-<p>
-  <a href="https://github.com/DIBYA31051996">GitHub</a>
-</p>
-
-## About Me
-
-<p align="justify">
-I'm a solar astrophysicist currently working as a senior project associate at Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital, India. I study solar magnetic fields, solar cycle variability, and data-rich heliophysics workflows that improve long-baseline analysis and solar dynamo model understanding. Apart from my academic pursuits, I have a keen interest in coding, data visualization, sketching, and reading.
-</p>
+<table>
+  <tr>
+    <td valign="top" width="280">
+      <h2>Dibya Kirti Mishra</h2>
+      <p><strong>Senior Project Associate</strong></p>
+      <p>Aryabhatta Research Institute of Observational Sciences (ARIES)</p>
+      <p>Nainital, India</p>
+      <p><a href="https://dibya31051996.github.io/">dibya31051996.github.io</a></p>
+      <p><a href="https://github.com/DIBYA31051996">@DIBYA31051996</a></p>
+    </td>
+    <td valign="top">
+      <h2>About Me</h2>
+      <p align="justify">
+        I'm a solar astrophysicist currently working as a senior project associate at Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital, India. I study solar magnetic fields, solar cycle variability, and data-rich heliophysics workflows that improve long-baseline analysis and solar dynamo model understanding. Apart from my academic pursuits, I have a keen interest in coding, data visualization, sketching, and reading.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Interests
 
@@ -60,9 +69,9 @@ I'm a solar astrophysicist currently working as a senior project associate at Ar
 
 ## Get in Touch
 
-- 📫 Email: [Email](mailto:dibyakirtimishra@aries.res.in)
-- 🔗 LinkedIn: [LinkedIn](https://in.linkedin.com/in/dibya-kirti-mishra-5649b8135)
-- 💻 GitHub: [GitHub](https://github.com/DIBYA31051996)
-- 🌐 Website: [Website](https://github.com/DIBYA31051996)
+- Email: [Email](mailto:dibyakirtimishra@aries.res.in)
+- LinkedIn: [LinkedIn](https://in.linkedin.com/in/dibya-kirti-mishra-5649b8135)
+- GitHub: [GitHub](https://github.com/DIBYA31051996)
+- Website: [Website](https://dibya31051996.github.io/)
 
 Feel free to reach out if you want to collaborate, discuss a project, or share ideas.
