@@ -7,7 +7,7 @@
 ## About Me
 
 <p align="justify">
-I'm a solar astrophysicist currently working as a senior project associate at Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital, India. I study solar magnetic fields, solar cycle variability, and data-rich heliophysics workflows that improve long-baseline analysis and solar dynamo model understanding. Apart from my academic pursuits, I have a keen interest in coding, data visualization, sketching, and reading.
+I'm a solar astrophysicist currently working as a postdoctoral fellow at the Indian Institute of Astrophysics, Bangalore, India. I study solar magnetic fields, solar cycle variability, and data-rich heliophysics workflows that improve long-baseline analysis and solar dynamo model understanding. Apart from my academic pursuits, I have a keen interest in coding, data visualization, sketching, and reading.
 </p>
 
 ## Interests
